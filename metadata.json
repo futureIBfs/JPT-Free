@@ -1,0 +1,5 @@
+{
+  "name": "JPT Pro",
+  "description": "An all-in-one study app combining notes, AI chat, a Pomodoro timer, and music.",
+  "requestFramePermissions": ["microphone"]
+}
